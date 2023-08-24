@@ -1,0 +1,7 @@
+*.png
+*.h5
+*.csv
+AE_data/*
+plots
+layer_activations
+**/__pycache__

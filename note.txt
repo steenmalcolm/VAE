@@ -1,0 +1,7 @@
+Things I have learned from experience:
+    - Simpler architecture is better especially in the beginning of building a NN
+    - Using a dense layer earlier in an AE architecture is usually better
+    - Decrease input size (32x32 works well) especially for sparse images 
+    - AE is much worse with multiple objects
+    
+    - Encoder and Decoder don't need to be reverse replicas of each other
